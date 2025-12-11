@@ -13,8 +13,8 @@ from otps import BaleOTP
 init(autoreset=True)
 
 baleotp = BaleOTP(
-    username="NKWijegoURaDsppwOTUTQnSBGFhBmvOI",
-    password="BrlAlPSejnxmomKlgdpDmJPFEbdUuExA", 
+    username="",
+    password="", 
     url="https://safir.bale.ai"
 )
 
